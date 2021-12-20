@@ -2,7 +2,7 @@
 import pygame
 # Initialize pygame
 pygame.init() 
-# Create a game screen with width=600 and height=600 and name is as "screen"
+# Create a game screen with width=600 and height=600 and name it as "screen"
 screen = pygame.display.set_mode((600,600))
 # Set the game title as "Car Racing Game"
 pygame.display.set_caption("Car Racing Game")
